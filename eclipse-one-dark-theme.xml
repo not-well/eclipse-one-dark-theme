@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="99999" name="Eclipse One Dark" author="Wellvergton Marques">
+    <searchResultIndication color="" />
+    <filteredSearchResultIndication color="" />
+    <occurrenceIndication color="#2e333d" />
+    <writeOccurrenceIndication color="#2e333d" />
+    <findScope color="" />
+    <deletionIndication color="#f64c72" />
+    <sourceHoverBackground color="" />
+    <singleLineComment color="#5b6170" />
+    <multiLineComment color="#5b6170" />
+    <commentTaskTag color="#5b6170" />
+    <javadoc color="#5b6170" />
+    <javadocLink color="#5b6170" />
+    <javadocTag color="#f64c72" />
+    <javadocKeyword color="#5b6170" />
+    <class color="#ebc47b" />
+    <interface color="#ebc47b" />
+    <method color="#46a9ef" />
+    <methodDeclaration color="#46a9ef" />
+    <bracket color="#aab1bf" />
+    <number color="#dc9865" />
+    <string color="#81d07b" />
+    <operator color="#aab1bf" />
+    <keyword color="#dc41db" />
+    <annotation color="#ebc47b" />
+    <staticMethod color="#46a9ef" />
+    <localVariable color="#f64c72" />
+    <localVariableDeclaration color="#f64c72" />
+    <field color="#aab1bf" />
+    <staticField color="#aab1bf" />
+    <staticFinalField color="#dc9865" />
+    <deprecatedMember color="#f64c72" strikethrough="true" />
+    <enum color="#ebc47b" />
+    <inheritedMethod color="#ebc47b" />
+    <abstractMethod color="#ebc47b" />
+    <parameterVariable color="#aab1bf" />
+    <typeArgument color="#ebc47b" />
+    <typeParameter color="#ebc47b" />
+    <constant color="#dc9865" />
+    <background color="#282b34" />
+    <currentLine color="#2d313c" />
+    <foreground color="#aab1bf" />
+    <lineNumber color="#767b87" />
+    <selectionBackground color="#3d4251" />
+    <selectionForeground color="#aab1bf" />
+</colorTheme>
